@@ -1,0 +1,52 @@
+﻿body {
+	background-image: url('Images/city.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	font-family: Arimo;
+}
+
+.body-content {
+	margin-top: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: center
+}
+}
+
+.center {
+	display:block;
+	margin: 0;
+}
+
+.heading {
+	text-align: center;
+}
+
+.flag-section {
+	margin-top:70px;
+	text-align:center;
+}
+
+.flag-section li {
+	margin-top: 10px;
+}
+
+.flag-section li:hover {
+	cursor:pointer;
+	text-decoration:underline;
+}
+
+#flagImage {
+	height: 250px;
+}
+
+.dymSpan {
+	text-decoration:underline;
+	font-style:oblique;
+}
+
+.dymSpan:hover {
+	cursor:pointer;
+}

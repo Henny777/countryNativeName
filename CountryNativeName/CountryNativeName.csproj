@@ -74,6 +74,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\city.jpg" />
+    <Content Include="Images\bg.jpg" />
+    <Content Include="index.html" />
+    <Content Include="Script\NativeApp.js" />
+    <Content Include="StyleSheet.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
